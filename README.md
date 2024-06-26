@@ -1,5 +1,4 @@
 # Yolov5_OD
-**Train data 확인**
 
 Class 0: 치타, Class 1: 사람
 
@@ -7,10 +6,10 @@ Class 0: 치타, Class 1: 사람
 
 **Validation data 확인**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59350d95-032b-4e4b-b236-db8a5711b348/b5421817-0ea0-4589-8288-88b0d488314f/Untitled.png)
+![image](https://github.com/jieui/Yolov5_OD/assets/154863031/e6c49708-8564-42c4-a8b6-a2e6cb8efa66)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59350d95-032b-4e4b-b236-db8a5711b348/e310a7dc-2dfd-40df-9531-09ca71560d8c/Untitled.png)
+![image](https://github.com/jieui/Yolov5_OD/assets/154863031/91cffc51-55ea-4a0e-8f22-3e46f0f765c7)
+
 
 **추론 결과 확인**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/59350d95-032b-4e4b-b236-db8a5711b348/334bd835-1ec7-403f-b0a9-16eaf43d10c5/Untitled.png)
+![image](https://github.com/jieui/Yolov5_OD/assets/154863031/84c9539b-d230-4852-8ebb-6daed4363f0b)
